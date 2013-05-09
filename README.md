@@ -22,4 +22,15 @@ seguimos con la segunda frase
 2. Dos
 
 
+```python
+printf("holamundo")
+```
+Ejemmlo de url
+Hola estoy haciendo un txt siguieme en [r3tikus](http://www.juanma.com)
+
+```
+CODIGO QUE TENGO QUE PONER AQUI LALALOALALALA
+```
+
+
 <code>Ejemplo de codigo</code>
